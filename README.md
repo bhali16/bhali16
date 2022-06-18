@@ -2,7 +2,7 @@
 👀  I’m interested in Web Development, Data and Security and recently worked with Testing Frameworks and find it very interesting  
 🌱  I’m currently working with Python and Java  
 <!-- 💞️  I’m looking to collaborate on Machine Learning and Social Network Analysis   -->
-📫  Reach me at twitter.com/waqaribnm  
+📫  Reach me at twitter.com/thewaqarism  
 
 <!-- <p align="center">
   <a href="http://twitter.com/bhali16">
