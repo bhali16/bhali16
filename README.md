@@ -14,7 +14,7 @@
 ### Hi there 👋
 My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently doing MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
-- 🔭 I’m currently working on a research project which is about Learning-base Testing, Model Coverage and Debugging Effectivness.
+- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.
 - 🌱 I’m currently learning Python and its ecosystem.
 - 👯 I’m looking to collaborate on Data Engineering projects.
 - 🤔 I’m looking for help with Javascript.
