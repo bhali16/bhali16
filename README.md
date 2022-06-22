@@ -28,5 +28,5 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
  -->
 ---
 <p align="center">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mxstbr&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhali16&hide_border=true" />
 </center>
