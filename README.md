@@ -1,6 +1,6 @@
 <!-- 👋  Hi, I’m Waqar Ahmad Khan @bhali16  
-👀  I’m interested in Web Development, Data and Security and recently worked with Testing Frameworks and find it very interesting  
-🌱  I’m currently working with Python and Java   -->
+👀  I’m interested in Java Web Development, Data and Security and recently worked with Testing Frameworks and find it very interesting  
+🌱  I’m currently working with Java and Python  -->
 <!-- 💞️  I’m looking to collaborate on Machine Learning and Social Network Analysis   -->
 
 <!-- - 🤔 I’m looking for help with Javascript. -->
@@ -15,10 +15,10 @@
 ### Hi there 👋
 My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently doing MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.
-- 🌱 I’m currently learning Spring Boot and its ecosystem.
-- 👯 I’m looking to collaborate on Data Engineering projects.
-- ⚡ Programming Languages: Python, PHP, Java, Javascript
+🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.
+🌱 I’m currently learning Spring Boot and its ecosystem.
+👯 I’m looking to collaborate on Data Engineering projects.
+⚡ Programming Languages: Python, PHP, Java, Javascript
 
 <!-- <p align="center">
   <a href="http://twitter.com/bhali16">
