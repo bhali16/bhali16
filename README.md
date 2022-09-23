@@ -15,10 +15,10 @@
 ### Hi there 👋
 My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently doing MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
-🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.
-🌱 I’m currently learning Spring Boot and its ecosystem.
-👯 I’m looking to collaborate on Data Engineering projects.
-⚡ Programming Languages: Python, PHP, Java, Javascript
+🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br />
+🌱 I’m currently learning Spring Boot and its ecosystem.<br />
+👯 I’m looking to collaborate on Data Engineering projects.<br />
+⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
 
 <!-- <p align="center">
   <a href="http://twitter.com/bhali16">
