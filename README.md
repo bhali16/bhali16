@@ -13,19 +13,18 @@
 
 
 ### Hi there 👋
-My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently doing MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
+My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently working as a back-end developer @phebsoft. Recenly completed my MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
-🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br />
+<!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
 🌱 I’m currently learning Spring Boot and its ecosystem.<br />
 👯 I’m looking to collaborate on Data Engineering projects.<br />
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
 
-<!-- <p align="center">
+<p align="center">
   <a href="http://twitter.com/bhali16">
     <img src="https://img.shields.io/twitter/follow/thewaqarism?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
- -->
 ---
 <p align="center">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhali16&hide_border=true" />
