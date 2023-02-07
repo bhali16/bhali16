@@ -21,11 +21,11 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
 
 <p align="center">
-  <a href="http://twitter.com/bhali16">
+  <a href="http://twitter.com/thewaqarism">
     <img src="https://img.shields.io/twitter/follow/thewaqarism?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
----
+
 <p align="center">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhali16&hide_border=true" />
 </center>
