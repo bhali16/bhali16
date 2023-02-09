@@ -27,5 +27,6 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 </p>
 
 <p align="center">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhali16&hide_border=true" />
+<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhali16&hide_border=false" /> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhali16&theme=dark&hide_border=true&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </center>
