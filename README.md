@@ -20,12 +20,8 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 👯 I’m looking to collaborate on Data Engineering projects.<br />
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
 
-<p align="center">
-  <a href="http://twitter.com/thewaqarism">
-    <img src="  https://img.shields.io/twitter/follow/thewaqarism?color=%23555555&label=%40thewaqarism&logo=twitter&style=social" />
-  </a>
   
 </p>
 <p align="center">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bhali16&theme=dark&hide_border=true&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bhali16&theme=light&hide_border=true&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
 </center>
