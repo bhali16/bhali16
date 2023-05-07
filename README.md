@@ -19,7 +19,7 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 🌱 I’m currently learning Spring Boot and its ecosystem.<br />
 👯 I’m looking to collaborate on Data Engineering projects.<br />
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
-
+![](https://komarev.com/ghpvc/?username=bhali16)
   
 </p>
 <p align="center">
