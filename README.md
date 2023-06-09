@@ -16,7 +16,7 @@
 My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently working as a full stack developer @phebsoft. Recently, completed my MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
-🌱 I’m currently learning Spring Boot and its ecosystem.<br />
+🌱 I’m currently learning DevOps and its ecosystem.<br />
 👯 I’m looking to collaborate on Data Engineering projects.<br />
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
   
