@@ -19,7 +19,7 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 🌱 I’m currently learning DevOps and its ecosystem.<br />
 👯 I’m looking to collaborate on Data Engineering projects.<br />
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
-  
+🔭 Planning to Build a Financial Startup.<br/> 
 </p>
 <p align="center">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bhali16&theme=light&hide_border=true&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
