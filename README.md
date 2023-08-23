@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wakhan@cs.qau.edu.pk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wakhan@cs.qau.edu.pk)](mailto:wakhan@cs.qau.edu.pk)
 
 
-### Hi there 👋
+### Hi there 👋 Salam
 My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently working as a full stack developer @phebsoft. Recently, completed my MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
