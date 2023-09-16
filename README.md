@@ -20,6 +20,4 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 ⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
 🔭 Planning to Build a Financial Startup.<br/> 
 </p>
-<p align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=bhali16&theme=dark&hide_border=false)<br/>
-</center>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhali16&theme=dark&hide_border=false)<br/>
