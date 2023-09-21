@@ -21,7 +21,7 @@ My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currentl
 🔭 Planning to Build a Financial Startup.<br/> 
 </p>
 
-[![GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=bhali16)](https://github.com/bhali16)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhali16)]
 
 
 
