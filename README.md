@@ -12,7 +12,7 @@
 
 
 ### Hi there 👋 Salam
-My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently working as a full stack developer @phebsoft. Recently, completed my MPhil in Computer Sciences and passionate about learning modern web and mobile application development technologies along with Data Engineering.
+My name is Waqar Ahmad Khan. I'm a Software Engineering graduate who is currently working as a full stack developer @phebsoft. Recently, completed my MPhil in Computer Sciences and passionate about learning modern application development technologies along with Data Engineering.
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
 🌱 I’m currently learning Django and its ecosystem.<br />
