@@ -1,7 +1,7 @@
 <!-- 👋  Hi, I’m Waqar Ahmad Khan @bhali16  
 👀  I’m interested in Python and Cloud, Data and Security and recently worked with Testing Frameworks and find it very interesting  
-🌱  I’m currently working with Java and Python  -->
-<!-- 💞️  I’m looking to collaborate on Machine Learning and Social Network Analysis   -->
+🌱  I’m currently working with Cloud Technologies and Python  -->
+<!-- 💞️  I’m looking to collaborate on Open Source Management Systems   -->
 <!-- - 🤔 I’m looking for help with Javascript. -->
 
 
