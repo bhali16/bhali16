@@ -22,4 +22,4 @@ I'm a Software Engineering graduate who is currently working as a full stack dev
 </p>
 
 
-
+![Streak](https://github-readme-streak-stats-sandy.vercel.app/?user=bhali16)
