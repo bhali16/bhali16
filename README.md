@@ -8,7 +8,7 @@
 # Waqar Ahmad Khan
 [![Twitter Badge](https://img.shields.io/badge/-@thewaqarism-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thewaqarism)](https://twitter.com/thewaqarism) 
 [![Linkedin Badge](https://img.shields.io/badge/-bhali16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhali16/)](https://www.linkedin.com/in/bhali16/) 
-[![Gmail Badge](https://img.shields.io/badge/-wakhan@cs.qau.edu.pk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wakhan@cs.qau.edu.pk)](mailto:wakhan@cs.qau.edu.pk)
+[![Gmail Badge](https://img.shields.io/badge/-wakhan@cs.qau.edu.pk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waqarbinmuhammad@gmail.com)](mailto:waqarbinmuhammad@gmail.com)
 
 
 ### Hi there 👋 Salam
