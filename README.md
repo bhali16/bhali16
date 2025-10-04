@@ -12,7 +12,7 @@
 
 
 ### Hi there 👋 Salam
-I'm a Software Engineering graduate who is currently working as a full stack developer @gitwork. Recently, completed my MPhil in Computer Sciences and passionate about learning modern application development technologies along with Data Engineering.
+I'm a Software Engineering graduate currently working as a Technical Team Lead at Gitwork. I hold an MPhil in Computer Science and am passionate about learning modern application development technologies, as well as exploring the utilization of LLMs in software development and end-user products.
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
 🌱 I’m currently learning Django and its ecosystem.<br />
