@@ -22,4 +22,4 @@ I'm a Software Engineering graduate currently working as a Technical Team Lead a
 </p>
 
 
-![Streak](https://github-readme-streak-stats-sandy.vercel.app/?user=bhali16)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhali16)
